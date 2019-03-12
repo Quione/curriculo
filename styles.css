@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+#navtop{
+    background-color: #FFB6C1 !important;
+}
+
+#navinferior{
+    background-color:white !important;
+
+}
+footer{
+    position: absolute;
+    background-color:#FFB6C1 !important;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    width:100%;
+
+    
+}
+
+p{
+    margin:0;
+    margin-top:20px;
+}
